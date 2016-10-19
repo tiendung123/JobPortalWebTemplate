@@ -347,7 +347,7 @@ ul.float-right li a {
 
     .menu ul ul:before {
         font-family: "FontAwesome";
-        content: "\f0d7";
+        content: "\f0d8";
         font-size: 23px;
         color: #282828;
         display: block;
@@ -838,7 +838,7 @@ input.ico-02 {
     }
 
         #breadcrumbs ul li:after {
-            content: "ï„…";
+            content: "\f105";
             font-family: "FontAwesome";
             font-size: 14px;
             color: #aaa;
