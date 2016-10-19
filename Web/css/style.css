@@ -1539,7 +1539,7 @@ button.mfp-close, button.mfp-arrow {
 }
 
     .mfp-close:before {
-        content: "ï€";
+        content: "\f00d";
         font-family: "FontAwesome";
         font-size: 16px;
         top: 0;
@@ -2231,7 +2231,7 @@ img.mfp-img {
 }
 
 .list-1 li:before {
-    content: "ïƒˆ";
+    content: "\f111";
     font-size: 8px;
 }
 
