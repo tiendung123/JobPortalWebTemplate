@@ -397,7 +397,7 @@ ul.float-right li a {
 }
 
 .sf-with-ul:after {
-    content: "\f0d7";
+    content: "\f107";
     font-family: "FontAwesome";
     font-size: 14px;
     margin: 0 0 0 7px;
