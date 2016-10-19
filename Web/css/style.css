@@ -4202,12 +4202,12 @@ li .job-spotlight p {
     }
 
     .tp-rightarrow.default:before {
-        content: "ï”";
+        content: "\f054";
         left: 19px;
     }
 
 .tp-leftarrow.default:before {
-    content: "ï“";
+    content: "\f053";
     left: 15px;
 }
 
