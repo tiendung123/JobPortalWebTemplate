@@ -4502,7 +4502,7 @@ html[xmlns] .flexslider .slides {
         width: 19px;
         top: 10px;
         left: 17px;
-        content: "ï¤";
+        content: "\f064";
         font-family: "FontAwesome";
         position: relative;
     }
