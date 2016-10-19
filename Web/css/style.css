@@ -6596,7 +6596,7 @@ ul.footer-links {
     }
 
     .rating .star-rating:after {
-        content: "ï€… ï€… ï€… ï€… ï€…";
+        content: "\f005 \f005 \f005 \f005 \f005";
         font-family: "FontAwesome";
         color: #ffc741;
         display: block;
@@ -6607,7 +6607,7 @@ ul.footer-links {
     }
 
     .rating .star-bg:after {
-        content: "ï€† ï€† ï€† ï€† ï€†";
+        content: "\f006 \f006 \f006 \f006 \f006";
         font-family: "FontAwesome";
         color: #c0c0c0;
         display: block;
